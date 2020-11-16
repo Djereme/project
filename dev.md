@@ -2,4 +2,4 @@
 
 some update
 
-updete from git kraken-new
+update from git kraken-new
